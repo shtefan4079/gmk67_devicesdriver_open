@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>LightingView.qml</file>
+        <file>KeymapView.qml</file>
+        <file>Layout.js</file>
+        <file>FullLayout.js</file>
+    </qresource>
+</RCC>
